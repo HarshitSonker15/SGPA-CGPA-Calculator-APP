@@ -48,6 +48,7 @@ State-Aware & Performant: Built using modern Android development principles and 
 +---------------------------------------------------+
 
 🛠 Tech Stack
+
 Language: Kotlin
 
 UI Toolkit: Jetpack Compose
@@ -97,7 +98,7 @@ Calculations are wrapped in a remember(keys) { derivedStateOf { ... } } block to
 🔧 How to Build from Source
 Clone the repository:
 
-git clone [https://github.com/your-username/aktu-cgpa-calculator.git](https://github.com/your-username/aktu-cgpa-calculator.git)
+git clone [https://github.com/your-username/SGPA-CGPA-Calculator-APP.git](https://github.com/your-username/SGPA-CGPA-Calculator-APP.git)
 
 Open in Android Studio: Open the cloned project in the latest version of Android Studio (Hedgehog or newer is recommended).
 
